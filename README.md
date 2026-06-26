@@ -22,21 +22,17 @@ I enjoy breaking things to understand how they work. Long-term, I'm interested i
 
 <table width="100%" bordercolor="#30363d">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>Current Focus</h3>
-      <ul>
-        <li>🐧 Linux Systems</li>
-        <li>🛡️ Cybersecurity</li>
-        <li>💻 Full-Stack Development</li>
-      </ul>
+      🐧 Linux Systems<br><br>
+      🛡️ Cybersecurity<br><br>
+      💻 Full-Stack Development
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>Future Direction</h3>
-      <ul>
-        <li>🚀 Aerospace Software</li>
-        <li>🪐 Planetary Technologies</li>
-        <li>🛰️ Space Systems</li>
-      </ul>
+      🚀 Aerospace Software<br><br>
+      🪐 Planetary Technologies<br><br>
+      🛰️ Space Systems
     </td>
   </tr>
 </table>
