@@ -22,24 +22,28 @@ I enjoy breaking things to understand how they work. Long-term, I'm interested i
 
 <table width="100%" bordercolor="#30363d">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top">
       <h3>Current Focus</h3>
-      🐧 Linux Systems<br><br>
-      🛡️ Cybersecurity<br><br>
-      💻 Full-Stack Development
+      <ul>
+        <li>🐧 Linux Systems</li>
+        <li>🛡️ Cybersecurity</li>
+        <li>💻 Full-Stack Development</li>
+      </ul>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top">
       <h3>Future Direction</h3>
-      🚀 Aerospace Software<br><br>
-      🪐 Planetary Technologies<br><br>
-      🛰️ Space Systems
+      <ul>
+        <li>🚀 Aerospace Software</li>
+        <li>🪐 Planetary Technologies</li>
+        <li>🛰️ Space Systems</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-## ✦ Interests
+## ✦ Interests (In Order)
 
 1. **Open Source** - Building in public and collaborating globally.
 2. **Cybersecurity** - Understanding vulnerabilities to build resilient systems.
