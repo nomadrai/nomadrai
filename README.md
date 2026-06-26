@@ -20,9 +20,9 @@ I enjoy breaking things to understand how they work. Long-term, I'm interested i
 
 ## ✦ Current Focus & Future Direction
 
-<table width="100%" bordercolor="#30363d">
+<table bordercolor="#30363d">
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3>Current Focus</h3>
       <ul>
         <li>🐧 Linux Systems</li>
@@ -30,7 +30,7 @@ I enjoy breaking things to understand how they work. Long-term, I'm interested i
         <li>💻 Full-Stack Development</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3>Future Direction</h3>
       <ul>
         <li>🚀 Aerospace Software</li>
