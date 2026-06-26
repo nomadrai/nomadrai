@@ -43,7 +43,7 @@ I enjoy breaking things to understand how they work. Long-term, I'm interested i
 
 ---
 
-## ✦ Interests (In Order)
+## ✦ Interests
 
 1. **Open Source** - Building in public and collaborating globally.
 2. **Cybersecurity** - Understanding vulnerabilities to build resilient systems.
