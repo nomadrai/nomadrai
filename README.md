@@ -12,7 +12,7 @@
 
 ## ✦ About Me
 
-I'm a CS (IoT) student exploring the intersection of intelligence, software, and hardware. I mostly focus on **Applied AI & Autonomous Agents, Full-Stack Product Engineering, Linux, and Cybersecurity**.
+I'm a builder exploring the intersection of intelligence, software, and hardware. I mostly focus on **Applied AI & Autonomous Agents, Full-Stack Product Engineering, Linux, and Cybersecurity**.
 
 I love finding real problems, framing what actually matters, and driving AI to build and ship complete systems from scratch. I also enjoy breaking things to understand how they fail, which is the best way to tell when a design or a model is bluffing. Long-term, I'm focused on **intelligent aerospace software and autonomous systems** that will push humanity into deep space.
 
